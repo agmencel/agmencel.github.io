@@ -1,0 +1,55 @@
+{
+  "basics": {
+    "name": "Alek Mencel",
+    "label": "Student",
+    "picture": "https://github.com/agmencel.png",
+    "email": "agmencel@hawaii.edu",
+    "phone": "651-408-5728",
+    "website": "https://agmencel.github.io",
+    "summary": "I am currently enrolled at the University of Hawaii at Manoa and studing for a BBA in Management information Systems. I am on track to graduate in the Spring of 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "agmencel", "url": "http://github.com/agmencel" },
+      { "network": "instagram", "username": "alekmencel", "url": "http://instagram.com/alekmencel" }
+    ]
+  },
+  "interests": [
+    { "name": "Photography" },
+    { "name": "Computers" },
+    { "name": "Cooking" },
+    { "name": "Football" },
+    { "name": "Gym" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Management Information Systems (expected Spring, 2024)",
+      "studyType": "B.B.A.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Hawaii Air National Guard",
+      "position": "Analyst",
+      "website": "",
+      "startDate": "2019-05-25",
+      "endDate": "Present",
+      "summary": "Air National Guard",
+      "highlights": [ ]
+    } 
+  ]
+}
